@@ -3,13 +3,13 @@
 Deployed link : https://t-cognition-assignment.vercel.app/
 
 ## Login
-![Image](https://github.com/user-attachments/assets/40f2f96b-92bf-4e22-b4f2-8b63deac1e37)
+![Image](https://github.com/user-attachments/assets/14d2b812-9832-4808-bfc3-d16f8f20196e)
 ## Add Employee
-![Image](https://github.com/user-attachments/assets/ded9e611-3db1-432f-a091-594392433c4c)
+![Image](https://github.com/user-attachments/assets/b445b10c-4814-4c12-904b-834e9492bc55)
 ## Home Page
-![Image](https://github.com/user-attachments/assets/27e64c70-7ffb-413d-874e-37b6981861a6)
+![Image](https://github.com/user-attachments/assets/96c91ca2-b87e-473e-a43d-25cd9545fd87)
 ## Edit Employee
-![Image](https://github.com/user-attachments/assets/0ff70fd3-898f-42b7-a20f-67ebfeb8c679)
+![Image](https://github.com/user-attachments/assets/826e18b8-d3fe-4f2c-881e-d55629b4c39c)
 ## Delete Employee
 ![Image](https://github.com/user-attachments/assets/e6c8801b-62ed-42e1-a3cb-c164dc1a3774)
 ## Logout
